@@ -1,0 +1,278 @@
+ <!-- Honk Honk -->
+
+<html>
+   <head>code this</head>
+
+    <body>
+        This is a line of text.
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        This is a line of text. 
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <p>This is a paragraph. </p>
+        <p>This is another paragraph. </p>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <p>This is a paragraph.</p>
+        <p>This is another paragraph. </p>
+        <p>This is <br /> a line break </p>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <p>This is regular text </p>
+        <p><b>bold text </b></p>
+        <p><big> big text </big></p>
+        <p><i> italic text </i></p>
+        <p><small> small text </small></p>
+        <p><strong> strong text </strong></p>
+        <p><sub> subscripted text </sub></p>
+        <p><sup> superscripted text </sup></p>
+        <p><ins> inserted text </ins></p>
+        <p><del> deleted text </del></p>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <h1>This is heading 1</h1>
+        <h2>This is heading 2</h2>
+        <h3>This is heading 3</h3>
+        <h4>This is heading 4</h4>
+        <h5>This is heading 5</h5>
+        <h6>This is heading 6</h6>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <h1>This is heading 1</h1>
+        <h2>This is heading 2</h2>
+        <h3>This is heading 3</h3>
+        <h4>This is heading 4</h4>
+        <h5>This is heading 5</h5>
+        <h6>This is heading 6</h6>
+        <p>This is a paragraph </p>
+        <hr />
+        <p>This is a paragraph </p>
+    </body>
+</html>
+
+
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <p>This is a paragraph </p>
+        <hr />
+        <p>This is a paragraph </p>
+        <!-- This is a comment -->
+    </body>
+
+
+
+    <head>
+        <title>first page</title>
+    </head>
+    <body> 
+        <p>This is a paragraph <br /></p>
+    </body>
+
+
+
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <p>This is a paragraph</p>
+        <p>This is a <br /> line break</p>
+    </body>
+
+
+<html>
+    <head>
+        <title>Attributes</title>
+    </head>
+    <body>
+        <p align="center">This is a text <br />
+            <hr width="10%" align="right" /> This is also a text.
+        </p>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body> 
+        <img src="http://www.sololearn.com/images/tree.jpg" alt="" />
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body> 
+        <img src="http://www.sololearn.com/images/tree.jpg" 
+        height="150px" width="150px" alt="" />
+        <br />
+        <img src="http://www.sololearn.com/images/tree.jpg" 
+        height="50%" width="50%" alt="" />
+        <img src="http://www.sololearn.com/images/tree.jpg"
+        height="150px" width="150px"
+        border="1px" alt="" /> 
+
+    </body>
+</html>
+
+<a href="http://www.sololearn.com" target="_blank">
+
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <ol>
+            <li>Red</li>
+            <li>Blue</li>
+            <li>Green</li>
+        </ol>
+    </body>
+</html>
+
+<html>
+   <head>
+      <title>first page</title>
+   </head>        
+   <body>
+      <ul>
+        <li>Red</li>
+        <li>Blue</li>
+        <li>Green</li>
+      </ul>  
+   </body>
+</html>
+
+
+<table>
+   <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+</table>
+
+<table border="2">
+    <tr>
+        <td>Red</td>
+        <td>Blue</td>
+        <td>Green</td>
+    </tr>
+    <tr>
+        <td><br /></td>
+        <td colspan="2"><br /></td>
+    </tr>
+</table>
+
+<table border="2">
+    <tr>
+        <td>Red</td>
+        <td>Blue</td>
+        <td>Green</td>
+    </tr>
+    <tr>
+        <td>Yellow</td>
+        <td colspan="2">Orange</td>
+    </tr>
+</table>
+<table align="center"> 
+
+<table border="2">
+    <tr>
+        <td bgcolor="red">Red</td>
+        <td>Blue</td>
+        <td>Green</td>
+    </tr>
+    <tr>
+        <td>Yellow</td>
+        <td colspan="2">Orange</td>
+    </tr>
+</table>
+
+<html>
+    <body>
+        <h1>Headline</h1>
+        <div style="background-color:green; color:white; padding:20px;">
+            <p>Some paragraph text goes here.</p>
+            <p>Another paragraph goes here.</p>
+        </div>
+    </body>
+</html>
+
+<html>
+    <body>
+        <h2>Some 
+            <span style="color:red">Important</span>
+             Message</h2>
+    </body>
+</html>
+
+<body>
+   <form>�</form>
+</body>
+
+<form action="http://www.sololearn.com"> 
+</form>
+
+<form>
+    <input type="text" name="username" /><br />
+    <input type="password" name="password" />
+</form>
+
+<input type="radio" name="gender" value="male" />Man <br />
+<input type="radio" name="gender" value="female" />Woman <br />
+
+<input type="checkbox" name="gender" value="1" /> Male <br />
+<input type="checkbox" name="gender" value="2" /> Ma'am <br />
+<input type="submit" value="Submit" /> 
+
+<html>
+   <head> 
+      <title>first page</title>  
+   </head>
+   <body bgcolor="#000099">
+       <h1>
+        <font color="#FFFFFF"> White headline </font>
+       </h1> 
+   </body>
+<!-- In HTML4, we would define a header like this:<div id="header">
+In HTML5, a simple header tag is used, instead. The header element is appropriate for use inside the body tag. -->
+</html>
